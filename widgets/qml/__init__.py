@@ -1,0 +1,1 @@
+from widgets.qml import slider

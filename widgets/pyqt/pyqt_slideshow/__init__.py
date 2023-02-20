@@ -1,0 +1,1 @@
+from widgets.pyqt.pyqt_slideshow.slideShow import SlideShow
