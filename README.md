@@ -5,7 +5,7 @@ I'm currently busy by other project and i start thinking that Qt is not for aeth
 
 ## Included
 * Customized widgets which i've made (slideshow, instant search bar...) - currently not being used
-* qtsasstheme
+* <a href="https://github.com/yjg30737/qtsasstheme.git">qtsasstheme</a>
 
 ## How to Install
 1. git clone ~
@@ -18,5 +18,5 @@ https://user-images.githubusercontent.com/55078043/220094321-114f4ee4-976c-4c97-
 * fix the bug that some of the svg icons not resized by the font resizing
 * support customized widgets and qml widget as qquickwidget
 * solve the choppy svg icon in the customized widgets
-* set margin and padding dynamically
-
+* set margin and padding dynamically based on font size
+* support PySide as well
