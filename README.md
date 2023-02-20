@@ -1,7 +1,7 @@
 # pyqt-theme-playground
 PyQt theme playground(qtsasstheme)
 
-I'm currently busy by other project and i start thinking that Qt is not for aethestic designed software. But hopefully someone finds this useful. 
+I'm currently busy by other project and i start thinking that Qt is not for aesthetic software. But hopefully someone finds this useful. 
 
 ## Included
 * Customized widgets which i've made (slideshow, instant search bar...) - currently not being used
